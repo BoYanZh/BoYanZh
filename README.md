@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary>BoYanZh's wakatime stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&layout=compact&theme=dark" />
 </details>
