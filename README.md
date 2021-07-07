@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-  <summary>BoYanZh's wakatime stats</summary>
+  <summary>BoYanZh's wakatime stats</summary
+   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&layout=compact&theme=dark" />
 </details>
