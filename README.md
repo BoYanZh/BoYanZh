@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-  <summary>BoYanZh's wakatime stats</summary>
+  <summary>Wakatime stats since Nov 10 2018</summary>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&layout=compact&theme=dark" />
