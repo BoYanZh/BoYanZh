@@ -22,11 +22,6 @@ Here are some ideas to get you started:
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoYanZh&layout=compact&theme=dark" />
 </a>
 
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" />
-</a>
-
-
 <hr>
 
 <details>
