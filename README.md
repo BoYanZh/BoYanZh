@@ -22,11 +22,9 @@ Here are some ideas to get you started:
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoYanZh&layout=compact&theme=dark" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BoYanZh&show_icons=true&locale=en&layout=compact" alt="BoYanZh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BoYanZh&show_icons=true&locale=en" alt="BoYanZh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BoYanZh&" alt="BoYanZh" /></p>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" />
+</a>
 
 
 <hr>
