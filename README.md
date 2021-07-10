@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=BoYanZh&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
