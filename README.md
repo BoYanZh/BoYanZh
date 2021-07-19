@@ -27,8 +27,9 @@ Here are some ideas to get you started:
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoYanZh&layout=compact&theme=dark" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark)](https://git.io/streak-stats)
-
+<div style="text-align: center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" style="margin: 0 auto;" />
+</div>
 <hr>
 
 <details>
