@@ -27,9 +27,10 @@ Here are some ideas to get you started:
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoYanZh&layout=compact&theme=dark" />
 </a>
 
-<div style="text-align: center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" style="margin: 0 auto;" />
-</div>
+<p align="center">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=BoYanZh&theme=dark" align="center" />
+</p>
+
 <hr>
 
 <details>
