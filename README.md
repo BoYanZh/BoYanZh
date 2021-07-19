@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom: 0px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=BoYanZh&show_icons=true&theme=dark&include_all_commits=true" />
   </a>
