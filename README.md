@@ -2,7 +2,7 @@
 
 I am a software developer from China. 🇨🇳
 
-Check my personal homepage for more detail: <https://boyanzh.site>.
+Check my personal homepage for more details: <https://boyanzh.site>.
 
 <!--
 **BoYanZh/BoYanZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
