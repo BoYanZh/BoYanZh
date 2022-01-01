@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I am [@BoYanZh](https://github.com/BoYanZh). 👋
+
+I am a software developer from China. 🇨🇳
+
+Check my personal homepage for more detail: <https://boyanzh.site>.
 
 <!--
 **BoYanZh/BoYanZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
+  <a href="https://profile-counter.glitch.me/BoYanZh/count.svg">
+    <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
+  </a>
 </p>
 
 <p align="center">
