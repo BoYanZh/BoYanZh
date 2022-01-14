@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" vertical-align="top"> 
+<p align="center"> 
   Visitor count
   <a href="https://profile-counter.glitch.me/BoYanZh/count.svg">
-    <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" />
+    <img src="https://profile-counter.glitch.me/BoYanZh/count.svg" style="vertical-align:top"/>
   </a>
 </p>
 
