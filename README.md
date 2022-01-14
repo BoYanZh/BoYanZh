@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  Visitor count
-  <a vertical-align="middle" href="https://profile-counter.glitch.me/BoYanZh/count.svg">
+  Visitor count: 
+  <a href="https://profile-counter.glitch.me/BoYanZh/count.svg">
     <img src="https://profile-counter.glitch.me/BoYanZh/count.svg"/>
   </a>
 </p>
