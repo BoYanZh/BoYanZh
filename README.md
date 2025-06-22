@@ -1,6 +1,6 @@
 ### Hi there! I am [@BoYanZh](https://github.com/BoYanZh). 👋
 
-I am a software developer from China. 🇨🇳 Check my personal homepage for more details about me: <https://boyanzh.site>.
+I am a software developer from 🇨🇳 China. Check my personal homepage for more details about me: <https://boyanzh.site>.
 
 <!--
 **BoYanZh/BoYanZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
