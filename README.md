@@ -64,6 +64,10 @@ If you are a student from UM-SJTU JI, this [Gist](https://gist.github.com/BoYanZ
   [![BoYanZh/Joint-Teapot - GitHub](https://gh-card.dev/repos/BoYanZh/Joint-Teapot.svg?fullname=)](https://github.com/BoYanZh/Joint-Teapot)
   [![tc-imba/canvas-auto-rubric - GitHub](https://gh-card.dev/repos/tc-imba/canvas-auto-rubric.svg?fullname=)](https://github.com/tc-imba/canvas-auto-rubric)
 
+  # JOJ3
+  [![joint-online-judge/JOJ3 - GitHub](https://gh-card.dev/repos/joint-online-judge/JOJ3.svg?fullname=)](https://github.com/joint-online-judge/JOJ3)
+  [![joint-online-judge/JOJ3-config-generator - GitHub](https://gh-card.dev/repos/joint-online-judge/JOJ3-config-generator.svg?fullname=)](https://github.com/joint-online-judge/JOJ3-config-generator)
+
   # JOJ
   [![BoYanZh/JOJ-Submitter - GitHub](https://gh-card.dev/repos/BoYanZh/JOJ-Submitter.svg?fullname=)](https://github.com/BoYanZh/JOJ-Submitter)
   [![linsyking/vscode-joj-tools - GitHub](https://gh-card.dev/repos/linsyking/vscode-joj-tools.svg?fullname=)](https://github.com/linsyking/vscode-joj-tools)
