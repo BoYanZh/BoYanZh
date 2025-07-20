@@ -1,6 +1,6 @@
 ### Hi there! I am [@BoYanZh](https://github.com/BoYanZh). 👋
 
-I am a software developer from 🇨🇳 China. Check my personal homepage for more details about me: <https://boyanzh.site>.
+I am a software engineer at TikTok, based in San Jose, originally from 🇨🇳 China, You can explore my work and projects on my personal homepage: <https://boyanzh.site>.
 
 <!--
 **BoYanZh/BoYanZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-  <summary>Wakatime stats since Nov 10 2018</summary>
+  <summary>WakaTime Stats from Personal Coding Since Nov 10, 2018</summary>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BoYanZh&layout=compact&theme=dark" />
